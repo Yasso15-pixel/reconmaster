@@ -15,3 +15,5 @@ git clone https://github.com/yourusername/ReconMaster.git
 cd ReconMaster
 chmod +x install.sh reconmaster.sh
 ./install.sh
+# reconmaster
+a automated framework from recon
